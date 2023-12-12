@@ -1,4 +1,4 @@
-# Proyecto Web App Servicios
+![android-chrome-64x64](https://github.com/EzeArc/Servi-Proff/assets/128533941/e994b874-d93d-411d-97ee-d1248084bd36) <h1> Proyecto Web App Servicios </h1> 
 
 ## Índice
 
@@ -6,7 +6,7 @@
   - [Índice](#índice)
   - [Descripción del Proyecto](#descripción-del-proyecto)
   - [Estado del Proyecto](#estado-del-proyecto)
-  - [Características de la Aplicación y Demostración](#características-de-la-aplicación-y-demostración)
+  - [Características de la Aplicación y Demostración](#🛠️-características-de-la-aplicación-y-demostración)
   - [Acceso al Proyecto](#acceso-al-proyecto)
   - [Tecnologías Utilizadas](#tecnologías-utilizadas)
   - [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras)
@@ -20,18 +20,17 @@ La Web App Servicios busca resolver la dificultad de encontrar proveedores de se
 
 En desarrollo.
 
-## Características de la Aplicación y Demostración
-
-- Creación de perfiles de usuarios (proveedores y usuarios).
-- Calificación y comentarios para proveedores.
-- Búsqueda de proveedores por rubro.
-- Roles de administrador para gestionar servicios y usuarios.
+## 🛠️ Características de la Aplicación y Demostración
+- `Funcionalidad 1`: Creación de perfiles de usuarios (proveedores y usuarios).
+- `Funcionalidad 2`: Calificación y comentarios para proveedores.
+- `Funcionalidad 3`: Búsqueda de proveedores por rubro.
+- `Funcionalidad 4`: Roles de administrador para gestionar servicios y usuarios.
 
 ## Acceso al Proyecto
 
 *¡Próximamente disponible!*
 
-## Tecnologías Utilizadas
+## ✔️ Tecnologías Utilizadas
 
 - HTML
 - Java
@@ -42,14 +41,14 @@ En desarrollo.
 
 ## Personas Desarrolladoras del Proyecto
 
-- [Arce Ezequiel]
-- [Benegas Mariano]
-- [Camporesi Exequiel]
-- [Nestor Luc-Henry]
-- [Nicklison Francisco]
-- [Otero Norberto]
-- [Rey Martin]
-- [Taborda Christian]
+* **Arce Ezequiel** - *ADM - Desarrollador Backend* - [Arce Ezequiel]([https://github.com/EzeArc])
+* **Benegas Mariano** - *Scrum Master - Desarrollador Frontend* - [Benegas Mariano]([https://github.com/m4ri4no33])
+* **Andrés Villanueva** - *Team leader - Desarrollador Backend* - [Camporesi Exequiel]([https://github.com/ExequielLP])
+* **Nestor Luc-Henry** - *Desarrollador Backend* - [Nestor Luc-Henry]([https://github.com/lucawakeup])
+* **Nicklison Francisco** - *Desarrollador Backend* - [Nicklison Francisco]([https://github.com/frannik])
+* **Otero Norberto** - *Desarrollador Frontend* - [Otero Norberto]([https://github.com/0Grow])
+* **Rey Martin** - *Desarrollador Frontend* - [Rey Martin]([https://github.com/Blue210])
+* **Taborda Christian** - *Desarrollador Backend* - [Taborda Christian]([https://github.com/christian2711])
 
 ## Conclusión
 
