@@ -37,9 +37,6 @@ En desarrollo. Actualmente nos enfocamos en mejorar la interfaz de usuario y opt
 
 *¡Próximamente disponible!*
 
-### ¿Cómo Contribuir?
-
-¡Nos encantaría que te unieras al proyecto! Puedes contribuir al código, informar problemas o sugerir nuevas funcionalidades. Consulta nuestra [Guía de Contribución](CONTRIBUTING.md) para obtener más detalles.
 
 ## ✔️ Tecnologías Utilizadas
 
@@ -68,9 +65,6 @@ En desarrollo. Actualmente nos enfocamos en mejorar la interfaz de usuario y opt
 - Agregada funcionalidad de búsqueda avanzada.
 - Optimización del rendimiento en la carga de perfiles de usuarios.
 
-## Licencia
-
-Este proyecto está bajo la licencia [Nombre de la Licencia]. Ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
 ## Conclusión
 
