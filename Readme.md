@@ -6,7 +6,7 @@
   - [Índice](#índice)
   - [Descripción del Proyecto](#descripción-del-proyecto)
   - [Estado del Proyecto](#estado-del-proyecto)
-  - [Características de la Aplicación y Demostración](#🛠️-características-de-la-aplicación-y-demostración)
+  - [Características de la Aplicación y Demostración](#características-de-la-aplicación-y-demostración)
   - [Acceso al Proyecto](#acceso-al-proyecto)
   - [Tecnologías Utilizadas](#tecnologías-utilizadas)
   - [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras)
