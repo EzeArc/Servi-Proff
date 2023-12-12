@@ -89,7 +89,7 @@ public class AdminControlador {
         } catch (MiException ex) {
             modelo.put("error", ex.getMessage());
         }
-        return "redirect:/admin/dashboard";
+        return "redirect:/admin/dashboard#listaProveedores";
     }
 
     @PostMapping("/eliminarUsuario/{id}")
@@ -99,7 +99,7 @@ public class AdminControlador {
         } catch (MiException ex) {
             modelo.put("error", ex.getMessage());
         }
-        return "redirect:/usuario/listarUsuario";
+        return "redirect:/admin/dashboard#listaUsuarios";
     }
 
     // metodo para el admin al lado de cada trabajo en la lista para poder
@@ -108,6 +108,6 @@ public class AdminControlador {
     public String eliminarTrabajo(@PathVariable String id, ModelMap modelo) {
         trabajoServicio.eliminarTrabajo(id);
 
-        return "redirect:/admin/dashboard";
+        return "redirect:/admin/dashboard#listaTrabajos";
     }
 }
